@@ -3,7 +3,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Projeto-Educacional-blue" />
-  <img src="https://img.shields.io/badge/Status-Em%20Desenvolvimento-darkgreen" />
+  <img src="https://img.shields.io/badge/Status-finalizado-darkgreen" />
 </p>
 
 <p align="center">
